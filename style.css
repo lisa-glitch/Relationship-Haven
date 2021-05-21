@@ -1,0 +1,33 @@
+.welcome-image{
+    width: 350px;
+    height: 350px;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+}
+
+h2{
+    color:  #00008B ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    align-content: center;
+}
+p{
+    color:  #8b8a8c;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color:  #00008B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    background-color: #00008B;
+    bottom:0;
+    width:100%;
+}
+html{
+    scroll-behavior: smooth;
+}
